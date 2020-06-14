@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1574724849 source:c:\users\arabtech\desktop\anothersolu.\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1574789780 source:c:\users\arabtech\desktop\anothersolu\main.c
+	<stdio.h>
+	<stdlib.h>
+
